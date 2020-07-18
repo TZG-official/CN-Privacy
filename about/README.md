@@ -12,5 +12,9 @@ CN-Privacy 是由 [TZG-official](https://github.com/TZG-official) 发起的非�
 就像 CN-Privacy 的 description 一样 —— 「**中国人不愿意用隐私换取便利**」。   
 这句话是由百度董事长兼 CEO 李彦宏 在「中国高层发展论坛“创新引领未来”专场论坛」时发表的言论修改而成的。虽然随后[有媒体证实其是断章取义](https://www.sohu.com/a/226568527_99923255)，但不得不承认，我们在隐私保护上确实有所欠缺。   
 因此，我们便开始筹备这个网站，并希望它能够帮助人们对隐私问题进行重视。
+
+## 鸣谢
+暂时空置...
+
 ## 版权
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本网站内容采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。不包含本网站 Logo 图标。
